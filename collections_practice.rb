@@ -23,7 +23,7 @@ end
 
 def kesha_maker(array)
   new = []
-  array.each do 
-  
+  array.each do |string|
+    
   end
 end
