@@ -40,3 +40,7 @@ end
 def sum_array(array)
   array.reduce { |sum, n| sum + n }
 end
+
+def add_s(array)
+  
+end
