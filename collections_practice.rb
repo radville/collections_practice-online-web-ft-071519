@@ -32,4 +32,5 @@ def find_a(array)
   array.each do |string|
     new << string.start_with?("a")
   end
+  new
 end
